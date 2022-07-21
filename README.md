@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit-Patran
-- 👀 I’m interested in Full-stack development with expertise in Front-end
+- 👀 I’m a curious learner in Full-stack development.
 - 🌱 I’m currently working on MERN stack
 - 💞️ I’m looking to collaborate on Website projects + Web apps
 - 📫 How to reach me: Email me: patranrohit99@gmail.com
